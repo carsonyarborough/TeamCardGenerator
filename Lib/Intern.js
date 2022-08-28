@@ -13,3 +13,4 @@ getRole(){
     return 'Intern';
 }
 }
+module.exports = Intern ;

@@ -12,3 +12,4 @@ getRole(){
     return 'Manager';
 }
 }
+module.exports = Manager ; 

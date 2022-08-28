@@ -1,0 +1,23 @@
+{
+  "name": "teamcardgenerator",
+  "version": "1.0.0",
+  "description": "NodeJs app that will help users create and display an html page that contains information submitted about a team player",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carsonyarborough/TeamCardGenerator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carsonyarborough/TeamCardGenerator/issues"
+  },
+  "homepage": "https://github.com/carsonyarborough/TeamCardGenerator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
